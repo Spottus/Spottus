@@ -26,5 +26,3 @@
   <h3>Where to find me</h3>
   <a href="https://www.linkedin.com/in/luca-brandimarti-371244b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
-  <a href="https://www.linkedin.com/in/luca-brandimarti-371244b6/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-C837AB.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  
