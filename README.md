@@ -27,7 +27,7 @@
   </p>
 
 <h3>GitHub Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Spottus&amp;show_icons=true" alt="GitHub Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Spottus&amp;show_icons=true" alt="GitHub Stats"></p>
 
   <h3>Connect whit me</h3>
   <a href="https://www.linkedin.com/in/luca-brandimarti-371244b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
