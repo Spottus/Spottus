@@ -2,9 +2,11 @@
 <h3 align="center">a  Junior Frontend developer,nice to meet you 🤙</h3>
 
 <h2>About me</h2>
-- 🏡 Based in Offida, Italy
-- 🎓 Bachelor degree in Computer Science at the University of Camerino
-- 👨‍💻 Working on <a href="https://www.alten.it/">Alten</a>
+<ul>
+    <li>🏡 Based in Offida, Italy</li>
+    <li>🎓 Bachelor degree in Computer Science at the University of Camerino</li>
+    <li>👨‍💻 Working on <a href="https://www.alten.it/">Alten</a></li>
+</ul>
 <h3>Language & Tools </h3>
 <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -13,8 +15,8 @@
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F74C0?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
-    <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/> 
+    <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-316192?style=flat-square&logo=postgresql&logoColor=white" />
