@@ -5,7 +5,6 @@
 <ul>
     <li>🏡 Based in Offida, Italy</li>
     <li>🎓 Bachelor degree in Computer Science at the University of Camerino</li>
-    <li>👨‍💻 Working on <a href="https://www.alten.it/">Alten</a></li>
 </ul>
 <h3>Language & Tools </h3>
 <p>
